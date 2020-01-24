@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //Exercise 1: Create an array with all the names of your class (including mentors).  Sort the array alphabetically.  Print the first element of the array in the console.  Print the last element of the array in the console.  Print all the elements of the array in the console.  Use a "for" loop. 
 
 // var i
@@ -224,5 +223,4 @@
 
 // function colors(myColor) {
 // 	console.log( '"' + myColor.join('", "') + '"' )
->>>>>>> 1db4ddd7eb6f45d22993e90d65d6831132fb8e7d
 // }colors( myColor )
