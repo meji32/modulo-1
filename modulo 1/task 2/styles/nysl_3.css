@@ -1,0 +1,130 @@
+body
+{margin:0;}
+header
+	{
+		background-image: url("../images/design3_image1.jpg");
+	 	background-repeat: no-repeat;
+	 	height: 31vw;
+	 	background-size: cover;
+	 	position: relative;
+	 	background-position: 0px -150px;
+	 	border: 3px solid black;
+	 	font-family:Corbel;
+	 	margin: 0px;
+
+ 	}
+
+#title1
+ 	{
+ 		width:53vw;
+  		font-size: 50px;
+ 		margin: 0px;
+ 		background-color: white;
+ 		position: relative;
+ 		bottom: -75%;
+ 		border-top: 3px solid black;
+ 		border-right: 3px solid black;
+	}
+
+ #titlehome
+ 	{
+ 		text-align: center;
+ 		width: 98.4vw; 
+ 		background-color: red;
+ 		color:black;
+ 		position: absolute;
+ 		bottom: 0px;
+ 		margin: 0px;
+ 		font-size: 30px;
+ 		border-top: 3px solid black;
+ 	}
+
+ 	#titleabout
+ 	{
+ 		text-align: center;
+ 		width: 98.4vw; 
+ 		background-color: red;
+ 		color:black;
+ 		position: absolute;
+ 		bottom: 0px;
+ 		margin: 0px;
+ 		font-size: 30px;
+ 		border-top: 3px solid black;
+ 	}
+
+#titlecontact
+ 	{
+ 		text-align: center;
+ 		width: 99.6vw; 
+ 		background-color: red;
+ 		color:black;
+ 		position: absolute;
+ 		bottom: 0px;
+ 		margin: 0px;
+ 		font-size: 30px;
+ 		border-top: 3px solid black;
+ 	}
+
+
+#logo1
+	{
+ 		height: 160px;
+ 		position: absolute;
+ 		right: 50px; bottom: -180px;
+	}
+
+#links
+{
+	position: relative;
+	bottom: 28px;
+	text-decoration: none;
+	 text-indent: 20px;
+}
+#linkhomediv
+	{
+		width: 20%;
+	}
+#linkcontactdiv
+	{
+		position: relative;
+		bottom: 38px;
+		left: 200px;
+		width: 20%;
+	}
+
+#linkaboutdiv
+	{
+		position: relative;
+		bottom: 19px;
+		left: 75px;
+		width: 20%;
+
+	}
+.boton:hover
+	{
+		background-color: orange;
+	}
+
+.boton
+	{
+		background-color:brown;
+		padding: 5px 10px;
+		color: white;
+		font-family:sans-serif;
+	}
+
+.maintext
+	{
+		position: relative;
+		left: 100px;
+		width: 60vw;
+		border-bottom: 3px solid white;
+		font-family:sans-serif;
+		text-decoration: none;
+
+	}
+
+.dato
+	{
+	 text-indent: 50px;
+	}
